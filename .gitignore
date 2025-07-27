@@ -4,5 +4,8 @@ node_modules
 _temp/*.csv
 _temp/exercise_file.csv
 
+# Archivos temporales de multer
+_temp/*
+
 # Logs
 *.log

@@ -1,1 +1,8 @@
 node_modules
+
+# Archivos temporales CSV
+_temp/*.csv
+_temp/exercise_file.csv
+
+# Logs
+*.log
